@@ -1,2 +1,2 @@
 # rover-maze
-using github take 2 rover maze project
+The objective is to create a robot that can solve a simple line maze unassisted.
